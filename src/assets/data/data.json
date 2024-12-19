@@ -1,0 +1,16 @@
+{
+  "cards": [
+    {
+      "question": "Ngoding yuk?",
+      "answer": "Ngapain ngoding, mending skrol fesbuk."
+    },
+    {
+      "question": "Belajar coding?",
+      "answer": "Ngapain belajar, mending nonton YouTube."
+    },
+    {
+      "question": "Bikin proyek?",
+      "answer": "Ngapain bikin proyek, mending main game."
+    }
+  ]
+}
